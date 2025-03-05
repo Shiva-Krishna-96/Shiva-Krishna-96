@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KoduriShivaKrishna/repo-name/blob/main/assets/powerbi.png?raw=true" alt="Power BI" width="40" height="40"/>
+    <img src="https://github.com/Shiva-Krishna-96/Shiva-Krishna-96/blob/main/power%20bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
 
