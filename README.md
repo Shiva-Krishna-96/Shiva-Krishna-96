@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KoduriShivaKrishna/repo-name/blob/main/assets/excel.png?raw=true" alt="Excel" width="40" height="40"/>
+    <img src="https://github.com/Shiva-Krishna-96/Shiva-Krishna-96/blob/main/excel.png" alt="Excel" width="40" height="40"/>
   </a>
 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
