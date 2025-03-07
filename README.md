@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-- 🌱 I’m currently learning **Python**
-
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
-- 🤝 I’m looking for help with **Excel, SQL, Power BI**
+- 🤝 I’m looking for help with **Excel, SQL, Power BI, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shiva-Krishna-96](https://github.com/Shiva-Krishna-96)
 
